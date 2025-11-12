@@ -1,5 +1,5 @@
 {
-    "name": "ReviveHeadInTruckOrExtractionPointToxinFork)",
+    "name": "ReviveHeadInTruckOrExtractionPointToxinFork",
     "description": "Revive a player when their head is placed inside the Truck or any open Extraction Point. Revives restore 20% of max health, respect per-player cooldowns and currency cost. Block revives while in carts.",
     "version_number": "1.3.0",
     "dependencies": [
