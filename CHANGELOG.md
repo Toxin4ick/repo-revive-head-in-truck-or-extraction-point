@@ -1,3 +1,8 @@
+#1.4.0
+* Improved chat message flow and removed unnecessary delays.
+* Added a configuration file for custom settings.
+* Updated the revival cost calculation formula.
+
 # v1.3.0
 * Forked release by Toxin (Toxin improvements & maintenance).
 * Revives continue to restore 20% of max health, now reliably respect per-player cooldowns and currency cost.
